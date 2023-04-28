@@ -37,26 +37,23 @@
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
-<p align="center">
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://user-images.githubusercontent.com/64713734/216819458-c42a1b19-fed6-484b-bc1a-468608348f99.png" width="40" height="40"/></a> 
-    <a href="https://go.dev/" target="_blank"><img src="https://user-images.githubusercontent.com/64713734/216819534-a8f719a2-a9a5-4825-bd42-cd2d64a12bc6.png" width="40" height="40"/></a>
-    <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://kubernetes.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216819721-8a638c14-ead5-4632-88f3-8fc829453651.png" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216820193-af833620-28ce-4271-934f-c0f210199510.png" width="40" height="40"/> </a> 
-    <a href="https://helm.sh/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216820378-b49c0214-43cb-493c-a8cb-31e59d21a970.png" width="40" height="40"/> </a> 
-    <a href="https://www.jenkins.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216820559-0f71ade9-5f8a-4f81-a267-ce048fbfaff3.png" width="40" height="40"/> </a> 
-    <a href="https://www.ansible.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216823822-2ad0843c-3fdd-4a30-9112-f3705a0215de.png" width="40" height="40"/> </a> 
-    <a href="https://www.terraform.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216823978-3757ceec-7a0d-46c4-8b66-851dd9b0ab7b.png" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-    <a href="http://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" width="40" height="40"/> </a>
-    <a href="https://prometheus.io/" target="_blank"><img src="https://user-images.githubusercontent.com/64713734/216824472-db580f96-d22e-4805-9738-47822671ed61.png" alt="prometheus" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216829610-638786aa-60f2-4fab-91e6-2d5ec595878a.png" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.redis.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216829672-32a5231c-f970-4177-8749-070d5678e63b.png" alt="redis" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://ubuntu.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/64713734/216829869-6ce4e39a-97c2-4251-bbd6-1c5ef6455f76.png" alt="ubuntu" width="40" height="40"/> </a> 
-</p>
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
 
 
