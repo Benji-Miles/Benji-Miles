@@ -5,11 +5,11 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
-🔭 I’m currently working on **[PC Magnificent](https:www.pcmagnificent.com) ** & **[Lightning Web Solutions](https:www.lightningwebsolutions.com)**.
+🔭 I’m currently working on **[PC Magnificent](https://www.pcmagnificent.com) & [Lightning Web Solutions](https://www.lightningwebsolutions.com)**.
 
 🎥 I regularly upload videos on **[YouTube](https://www.youtube.com/@codingwithbenji)**.
 
-📄 Know about my experiences from my **[Resume](https:www.benjimiles.co.za)**.
+📄 Know about my experiences from my **[Resume](https://www.benjimiles.co.za)**.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Benji-Miles&show_icons=true&theme=dracula">
