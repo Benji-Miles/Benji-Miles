@@ -22,7 +22,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WdnZbNVa4pMSZw45U9/giphy.gif" width="40"> **Connect with Me:**
+## **Connect with Me:**
 
 <p align="center">
     <a href="https://www.youtube.com/@codingwithbenji" target="_blank">
@@ -35,7 +35,7 @@
     </a>
 </p> 
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## **Languages & Tools:**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
