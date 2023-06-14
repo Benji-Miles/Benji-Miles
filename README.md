@@ -5,16 +5,16 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
-🔭 I’m currently working on **[PC Magnificent](https://www.pcmagnificent.com) & [Lightning Web Solutions](https://www.lightningwebsolutions.com)**.
+- I’m currently working on **[PC Magnificent](https://www.pcmagnificent.com) & [Lightning Web Solutions](https://www.lightningwebsolutions.com)**.
 
-🎥 I regularly upload videos on **[YouTube](https://www.youtube.com/@codingwithbenji)**.
+- I upload videos about programming and web development on **[YouTube](https://www.youtube.com/@codingwithbenji)**.
 
-📄 Know about my experiences from my **[Resume](https://www.benjimiles.co.za)**.
+- See my experience on my **[Resume](https://www.benjimiles.co.za)**.
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Benji-Miles&show_icons=true&theme=dracula">
 </p>
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Benji-Miles&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## **Connect with Me:**
 
-<p align="center">
+<p align="left">
     <a href="https://www.youtube.com/@codingwithbenji" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%2324292e.svg?&style=for-the-badge&logo=youtube&logoColor=red alt=youtube style="margin-bottom: 5px;" />
     </a>
