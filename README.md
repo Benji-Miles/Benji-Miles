@@ -1,7 +1,7 @@
-<h1 align="center">Hello World, I'm <a href="https://www.benjimiles.co.za"> Benji Miles </a> 👋 </h1>
-<h3 align="center">Founder of Lightning Web Solutions, Coding With Benji & PC Magnificent</h3>
+<h1 align="center">Hello, I'm <a href="https://www.benjimiles.co.za"> Benji Miles </a> 👋 </h1>
+<h3 align="center">Just your ordinary Software Engineer & Tech Enthusiast</h3>
 
-## <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="40"> **About Me:**
+## **About Me:**
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
 
