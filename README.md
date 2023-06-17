@@ -12,9 +12,6 @@
 - See my experience on my **[Resume](https://www.benjimiles.co.za)**.
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Benji-Miles&show_icons=true&theme=dracula">
-</p>
-<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Benji-Miles&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
