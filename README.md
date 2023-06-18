@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm <a href="https://www.benjimiles.co.za"> Benji Miles </a> 👋 </h1>
+<h1 align="center">Hello, I'm <a href="https://www.benjimiles.co.za"> Benji Miles </a></h1>
 <h3 align="center">Just your ordinary Software Engineer & Tech Enthusiast</h3>
 
 ## **About Me:**
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif">
+
 
 - I’m currently working on **[PC Magnificent](https://www.pcmagnificent.com) & [Lightning Web Solutions](https://www.lightningwebsolutions.com)**.
 
@@ -14,8 +14,6 @@
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Benji-Miles&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
-
-   
 
 ---
 
@@ -49,20 +47,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-
-
-<p>🔭 I’m currently working on being a better Cyber Sec Analyst. </p> 
-- 🌱 I’m currently learning Enterprise Web Appsec Solutions. 
-- 👯 I’m looking to collaborate on python and web development projects.
-- 🤔 I’m looking for help with getting rich from my efforts on my keyboard. Id like a ferrari.
-- 💬 Ask me about Red Team Hacking, Digital Forensics and Web Application DEV 
-- 📫 How to reach me: (here) 
-- 😄 Pronouns: IT (lol, who cares) 
-- ⚡  Fun fact: I know how to break into unpatched Windows 10 Environments. (ethically) 
-
-
-
-
-
-
-
