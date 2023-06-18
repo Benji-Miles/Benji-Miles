@@ -51,7 +51,7 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 
-- 🔭 I’m currently working on being a better Cyber Sec Analyst. 
+<p>🔭 I’m currently working on being a better Cyber Sec Analyst. </p> 
 - 🌱 I’m currently learning Enterprise Web Appsec Solutions. 
 - 👯 I’m looking to collaborate on python and web development projects.
 - 🤔 I’m looking for help with getting rich from my efforts on my keyboard. Id like a ferrari.
